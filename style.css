@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1, h2, ul, ol, p {
+    background-color: lightblue;
+    margin: 16px;
+    padding: 16px;
+}
+
+ul, ol {
+    padding: 16px 32px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 8px solid palevioletred;
+}
